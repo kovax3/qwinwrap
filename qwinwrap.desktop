@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Type=Application
+Name=qwinwrap
+Name[ar]=qwinwrap
+
+Comment[ar]=تحويل خلفية سطح المكتب الى شاشة توقف او فيديو
+
+Exec=qwinwrap
+Icon=qwinwrap
+Categories=Settings;DesktopSettings;
+
+

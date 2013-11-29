@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qwinwrap.png</file>
+        <file>Qwinwrap_ar.qm</file>
+        <file>vidio.png</file>
+    </qresource>
+</RCC>

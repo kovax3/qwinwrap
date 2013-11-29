@@ -1,0 +1,17 @@
+Source: qwinwrap
+Section: utils
+Priority: extra
+Maintainer: kovax <kovax3@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), qt4-qmake, libqt4-dev (>= 4.6.2)
+Standards-Version: 3.9.2
+Homepage: https://sourceforge.net/projects/qwinwrap/
+#Vcs-Git: git://git.debian.org/collab-maint/qwinwrap.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/qwinwrap.git;a=summary
+
+Package: qwinwrap
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ يتيح لك هذا البرنامج تغيير خلفية سطح المكتب الى شاشة توقف اوفيديو.
+ باستخدام برنامج xwinwrap .
+ او باستخدام الرسم المباشر على سطح المكتب.
